@@ -1,0 +1,12 @@
+{
+  "name": "shopping-checklist",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd app-frontend && serve .",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "serve": "^14.1.2"
+  }
+}
