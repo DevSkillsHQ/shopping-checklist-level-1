@@ -30,7 +30,7 @@ npm run test # run Cypres tests
 
 ---
 
-Made by [DevSkills](https://devskills.co).
+Authored by [Maksim Ivanov](https://devskills.co/authors/maksim-ivanov) via [DevSkills](https://devskills.co).
 
 Did you find this repo useful? **Give us a shout on [Twitter](https://twitter.com/DevSkillsHQ) / [LinkedIn](https://www.linkedin.com/company/devskills)**.
 
