@@ -1,6 +1,6 @@
 # Shopping Checklist Level 1
 
-Create a shopping checklist frontend app.
+Your task is to create a shopping checklist frontend app.
 
 <img width="300px" src="https://user-images.githubusercontent.com/450319/204795020-bf498e37-d53d-49d9-b1ec-b0c6f944c222.png"/>
 
@@ -12,8 +12,13 @@ Checkboxes state should be preserved when the page is reloaded.
 
 After all the checkboxes were checked the app resets to original state and unchecks all the checkboxes.
 
-- make the application look good
-- use animations where applicable
+## What we expect from you
+1. Make the application look good.
+2. Use animations where applicable (but ensure there is at least one animation).
+3. Avoid duplication and extract re-usable modules where it makes sense. We want to see your approach to creating a codebase that is easy to maintain.
+4. Create a new pull request, but please **do not merge it**.
+5. Document the tech decisions you've made by creating a new review on your PR ([see how](https://www.loom.com/share/94ae305e7fbf45d592099ac9f40d4274)).
+6. Await further instructions from the hiring team.
 
 ## Contents
 
@@ -27,6 +32,12 @@ After all the checkboxes were checked the app resets to original state and unche
 npm run start # to start the app
 npm run test # run Cypres tests
 ```
+
+## Time estimate
+
+Between **1h30m-3h** depending on your experience level. 
+
+But don't worry! There is no countdown. This number is for you to plan your time.
 
 ---
 
