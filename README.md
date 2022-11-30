@@ -2,7 +2,18 @@
 
 Create a shopping checklist frontend app.
 
+<img width="300px" src="https://user-images.githubusercontent.com/450319/204795020-bf498e37-d53d-49d9-b1ec-b0c6f944c222.png"/>
+
 The checklist should contain the following items: baby food, bacon, bread, butter, cake, ketchup, cereal, cheese, cocoa, cookies, coffee, cream, delicatess, eggs, fish, flour, frozen foor, fruit, jams, juices, matches, meats, milk, mustard, noodles, oil, onions, pepper, poultry, potatoes, rice, salt, soap, soups, spaghetti, spices, sugar, tea, vegetable, vinegar.
+
+Each item should have a checkbox and a label.
+
+Checkboxes state should be preserved when the page is reloaded.
+
+After all the checkboxes were checked the app resets to original state and unchecks all the checkboxes.
+
+- make the application look good
+- use animations where applicable
 
 ## Contents
 
@@ -14,6 +25,7 @@ The checklist should contain the following items: baby food, bacon, bread, butte
 
 ```
 npm run start # to start the app
+npm run test # run Cypres tests
 ```
 
 ---
