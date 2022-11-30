@@ -2,6 +2,8 @@
 
 Create a shopping checklist frontend app.
 
+The checklist should contain the following items: baby food, bacon, bread, butter, cake, ketchup, cereal, cheese, cocoa, cookies, coffee, cream, delicatess, eggs, fish, flour, frozen foor, fruit, jams, juices, matches, meats, milk, mustard, noodles, oil, onions, pepper, poultry, potatoes, rice, salt, soap, soups, spaghetti, spices, sugar, tea, vegetable, vinegar.
+
 ## Contents
 
 - [Frontend app](app-frontend) - application files. HTML/CSS/JavaScript
